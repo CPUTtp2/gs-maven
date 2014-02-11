@@ -1,5 +1,6 @@
 /**
  * This is the first fun play code for TP2
+* LOL
  */
 
 package hello;
